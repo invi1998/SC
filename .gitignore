@@ -1,0 +1,132 @@
+# ======================================
+# Unreal Engine 5 项目 .gitignore
+# ======================================
+
+# ---------- UE 生成目录 ----------
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+
+# 项目根 Build 目录：忽略生成内容，但保留平台构建配置
+Build/*
+!Build/Android/
+!Build/Android/**
+!Build/IOS/
+!Build/IOS/**
+!Build/Linux/
+!Build/Linux/**
+!Build/Windows/
+!Build/Windows/**
+# 如果你不需要保留任何 Build 内容，可改为：
+# Build/
+
+# 插件生成目录
+Plugins/*/Binaries/
+Plugins/*/Build/
+Plugins/*/DerivedDataCache/
+Plugins/*/Intermediate/
+Plugins/*/Saved/
+Plugins/*/Script/
+
+# 平台/程序生成目录
+Platforms/*/Binaries/
+Platforms/*/Intermediate/
+Programs/*/Binaries/
+Programs/*/Intermediate/
+
+# ---------- Visual Studio / Rider ----------
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.user
+*.userprefs
+*.DotSettings.user
+
+# ---------- Xcode ----------
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+DerivedData/
+*.dSYM/
+*.dSYM.zip
+*.xcarchive
+
+# ---------- VS Code ----------
+# 如果团队想共享 VS Code 配置，可删除下面两行
+.vscode/
+*.code-workspace
+
+# ---------- 编译产物 / 临时文件 ----------
+*.pdb
+*.obj
+*.o
+*.a
+*.lib
+*.exp
+*.ilk
+*.idb
+*.dll
+*.exe
+*.out
+*.app
+*.ipa
+*.apk
+*.aab
+*.so
+*.dylib
+*.class
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+*.autosave
+*.cache
+*.opendb
+*.ncb
+*.aps
+*.clw
+*.plg
+*.opt
+*.swp
+*~
+
+# ---------- 系统文件 ----------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+*.lnk
+
+# ---------- UE 用户本地配置 ----------
+Config/User*.ini
+Content/Collections/
+# 如果团队不共享开发者临时内容，可取消下一行注释：
+# Content/Developers/
+
+# ---------- 其他 ----------
+*.pid
+*.seed
+*.pid.lock
+*.stackdump
