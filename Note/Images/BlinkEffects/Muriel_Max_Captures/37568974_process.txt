@@ -1,0 +1,7 @@
+Started: 2026-10-23 10:26:09
+Meshes: 1
+Mesh: Muriel_GDC | previous material: #多维/子对象:MultiMat_0(1:物理材质:MI_Muriel_UpperBody_Head, 2:物理材质:MI_Muriel_Wings, 3:物理材质:MI_Muriel_ArmsLegs, 4:物理材质:MI_Muriel_Eye_New, 5:物理材质:MI_Muriel_Eye_Occ, 6:物理材质:MI_Murial_Mouth, 7:物理材质:MI_Muriel_Face, 8:物理材质:MI_Muriel_Head_Helmet, 9:物理材质:MI_Muriel_TearLine, 10:物理材质:MI_Muriel_EyeLashes)
+Screenshots appended to: F:\study\SC_Initial\Note\3_闪烁特效.md
+Finished: 2026-10-23 10:26:09
+Before: F:\study\SC_Initial\Note\Images\BlinkEffects\Muriel_Max_Captures\/37568974_before.png
+After: F:\study\SC_Initial\Note\Images\BlinkEffects\Muriel_Max_Captures\/37568974_after.png

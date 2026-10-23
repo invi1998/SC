@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Nyx_Skeletal_C.FBX",
+    "fbx_version": 7300,
+    "creator": "FBX SDK/FBX Plugins version 2020.2",
+    "materials": 17,
+    "black_diffuse": 10,
+    "nonblack_diffuse": 7,
+    "diffuse_texture_links": 5,
+    "texture_links": [
+      {
+        "material": "M_Nyx_Arm",
+        "property": "DiffuseColor"
+      },
+      {
+        "material": "M_Nyx_Arm",
+        "property": "NormalMap"
+      },
+      {
+        "material": "M_Nyx_Body",
+        "property": "NormalMap"
+      },
+      {
+        "material": "MI_Nyx_Face",
+        "property": "NormalMap"
+      },
+      {
+        "material": "M_Nyx_Fur",
+        "property": "DiffuseColor"
+      },
+      {
+        "material": "M_Nyx_Hair",
+        "property": "DiffuseColor"
+      },
+      {
+        "material": "MI_Nyx_Lower",
+        "property": "DiffuseColor"
+      },
+      {
+        "material": "MI_Nyx_Lower",
+        "property": "NormalMap"
+      },
+      {
+        "material": "MI_Nyx_Upper",
+        "property": "DiffuseColor"
+      },
+      {
+        "material": "MI_Nyx_Upper",
+        "property": "NormalMap"
+      }
+    ]
+  },
+  {
+    "file": "Muriel_GDC.FBX",
+    "fbx_version": 7300,
+    "creator": "FBX SDK/FBX Plugins version 2020.2",
+    "materials": 10,
+    "black_diffuse": 10,
+    "nonblack_diffuse": 0,
+    "diffuse_texture_links": 0,
+    "texture_links": [
+      {
+        "material": "MI_Muriel_Face",
+        "property": "NormalMap"
+      }
+    ]
+  }
+]

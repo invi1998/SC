@@ -1,0 +1,663 @@
+{
+  "created_at": "2026-10-23T10:15:44.038830+08:00",
+  "source": "F:\\study\\Blender\\Muriel_GDC.FBX",
+  "output": "F:\\study\\SC_Initial\\Note\\Assets\\Muriel_UV\\Muriel_GDC_GrayPreview.FBX",
+  "source_sha256": "fb94ee3615dae7babf7a9e6edf06117b23b6e59c1173133fd5e18a529065f7ca",
+  "output_sha256": "1945600bb7501544d36236402afc1e87983777c494904c0e8d87ff5960371656",
+  "size_bytes": 1423392,
+  "material_count": 10,
+  "opaque_materials_normalized": 8,
+  "transparent_materials_preserved": 2,
+  "changed_byte_count": 136,
+  "preserved_nonmaterial_objects": 360,
+  "uv_layer_count": 1,
+  "checks": {
+    "source_unchanged": true,
+    "only_material_value_bytes_changed": true,
+    "geometry_skin_uv_and_other_objects_byte_identical": true,
+    "connections_and_global_settings_byte_identical": true,
+    "file_length_and_node_offsets_unchanged": true,
+    "reparsed_and_material_values_verified": true
+  },
+  "max_viewport_verified": false,
+  "materials": [
+    {
+      "name": "MI_Muriel_UpperBody_Head",
+      "diffuse_before": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "diffuse_after": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "opacity": 1.0,
+      "transparency_before": 1.0,
+      "transparency_after": 0.0
+    },
+    {
+      "name": "MI_Muriel_Wings",
+      "diffuse_before": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "diffuse_after": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "opacity": 1.0,
+      "transparency_before": 1.0,
+      "transparency_after": 0.0
+    },
+    {
+      "name": "MI_Muriel_ArmsLegs",
+      "diffuse_before": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "diffuse_after": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "opacity": 1.0,
+      "transparency_before": 1.0,
+      "transparency_after": 0.0
+    },
+    {
+      "name": "MI_Muriel_Eye_New",
+      "diffuse_before": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "diffuse_after": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "opacity": 1.0,
+      "transparency_before": 1.0,
+      "transparency_after": 0.0
+    },
+    {
+      "name": "MI_Muriel_Eye_Occ",
+      "diffuse_before": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "diffuse_after": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "opacity": 1.0,
+      "transparency_before": 1.0,
+      "transparency_after": 0.0
+    },
+    {
+      "name": "MI_Murial_Mouth",
+      "diffuse_before": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "diffuse_after": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "opacity": 1.0,
+      "transparency_before": 1.0,
+      "transparency_after": 0.0
+    },
+    {
+      "name": "MI_Muriel_Face",
+      "diffuse_before": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "diffuse_after": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "opacity": 1.0,
+      "transparency_before": 1.0,
+      "transparency_after": 0.0
+    },
+    {
+      "name": "MI_Muriel_Head_Helmet",
+      "diffuse_before": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "diffuse_after": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "opacity": 1.0,
+      "transparency_before": 1.0,
+      "transparency_after": 0.0
+    },
+    {
+      "name": "MI_Muriel_TearLine",
+      "diffuse_before": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "diffuse_after": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "opacity": 0.0,
+      "transparency_before": 1.0,
+      "transparency_after": 1.0
+    },
+    {
+      "name": "MI_Muriel_EyeLashes",
+      "diffuse_before": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "diffuse_after": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "opacity": 0.0,
+      "transparency_before": 1.0,
+      "transparency_after": 1.0
+    }
+  ],
+  "changes": [
+    {
+      "material": "MI_Muriel_UpperBody_Head",
+      "property": "DiffuseColor",
+      "offset": 1161859,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_UpperBody_Head",
+      "property": "DiffuseColor",
+      "offset": 1161868,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_UpperBody_Head",
+      "property": "DiffuseColor",
+      "offset": 1161877,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_UpperBody_Head",
+      "property": "Diffuse",
+      "offset": 1162174,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_UpperBody_Head",
+      "property": "Diffuse",
+      "offset": 1162183,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_UpperBody_Head",
+      "property": "Diffuse",
+      "offset": 1162192,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_UpperBody_Head",
+      "property": "TransparencyFactor",
+      "offset": 1161945,
+      "before": 1.0,
+      "after": 0.0
+    },
+    {
+      "material": "MI_Muriel_Wings",
+      "property": "DiffuseColor",
+      "offset": 1162600,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Wings",
+      "property": "DiffuseColor",
+      "offset": 1162609,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Wings",
+      "property": "DiffuseColor",
+      "offset": 1162618,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Wings",
+      "property": "Diffuse",
+      "offset": 1162915,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Wings",
+      "property": "Diffuse",
+      "offset": 1162924,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Wings",
+      "property": "Diffuse",
+      "offset": 1162933,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Wings",
+      "property": "TransparencyFactor",
+      "offset": 1162686,
+      "before": 1.0,
+      "after": 0.0
+    },
+    {
+      "material": "MI_Muriel_ArmsLegs",
+      "property": "DiffuseColor",
+      "offset": 1163344,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_ArmsLegs",
+      "property": "DiffuseColor",
+      "offset": 1163353,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_ArmsLegs",
+      "property": "DiffuseColor",
+      "offset": 1163362,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_ArmsLegs",
+      "property": "Diffuse",
+      "offset": 1163659,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_ArmsLegs",
+      "property": "Diffuse",
+      "offset": 1163668,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_ArmsLegs",
+      "property": "Diffuse",
+      "offset": 1163677,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_ArmsLegs",
+      "property": "TransparencyFactor",
+      "offset": 1163430,
+      "before": 1.0,
+      "after": 0.0
+    },
+    {
+      "material": "MI_Muriel_Eye_New",
+      "property": "DiffuseColor",
+      "offset": 1164087,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Eye_New",
+      "property": "DiffuseColor",
+      "offset": 1164096,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Eye_New",
+      "property": "DiffuseColor",
+      "offset": 1164105,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Eye_New",
+      "property": "Diffuse",
+      "offset": 1164402,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Eye_New",
+      "property": "Diffuse",
+      "offset": 1164411,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Eye_New",
+      "property": "Diffuse",
+      "offset": 1164420,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Eye_New",
+      "property": "TransparencyFactor",
+      "offset": 1164173,
+      "before": 1.0,
+      "after": 0.0
+    },
+    {
+      "material": "MI_Muriel_Eye_Occ",
+      "property": "DiffuseColor",
+      "offset": 1164830,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Eye_Occ",
+      "property": "DiffuseColor",
+      "offset": 1164839,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Eye_Occ",
+      "property": "DiffuseColor",
+      "offset": 1164848,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Eye_Occ",
+      "property": "Diffuse",
+      "offset": 1165145,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Eye_Occ",
+      "property": "Diffuse",
+      "offset": 1165154,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Eye_Occ",
+      "property": "Diffuse",
+      "offset": 1165163,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Eye_Occ",
+      "property": "TransparencyFactor",
+      "offset": 1164916,
+      "before": 1.0,
+      "after": 0.0
+    },
+    {
+      "material": "MI_Murial_Mouth",
+      "property": "DiffuseColor",
+      "offset": 1165571,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Murial_Mouth",
+      "property": "DiffuseColor",
+      "offset": 1165580,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Murial_Mouth",
+      "property": "DiffuseColor",
+      "offset": 1165589,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Murial_Mouth",
+      "property": "Diffuse",
+      "offset": 1165886,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Murial_Mouth",
+      "property": "Diffuse",
+      "offset": 1165895,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Murial_Mouth",
+      "property": "Diffuse",
+      "offset": 1165904,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Murial_Mouth",
+      "property": "TransparencyFactor",
+      "offset": 1165657,
+      "before": 1.0,
+      "after": 0.0
+    },
+    {
+      "material": "MI_Muriel_Face",
+      "property": "DiffuseColor",
+      "offset": 1166311,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Face",
+      "property": "DiffuseColor",
+      "offset": 1166320,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Face",
+      "property": "DiffuseColor",
+      "offset": 1166329,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Face",
+      "property": "Diffuse",
+      "offset": 1166626,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Face",
+      "property": "Diffuse",
+      "offset": 1166635,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Face",
+      "property": "Diffuse",
+      "offset": 1166644,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Face",
+      "property": "TransparencyFactor",
+      "offset": 1166397,
+      "before": 1.0,
+      "after": 0.0
+    },
+    {
+      "material": "MI_Muriel_Head_Helmet",
+      "property": "DiffuseColor",
+      "offset": 1167058,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Head_Helmet",
+      "property": "DiffuseColor",
+      "offset": 1167067,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Head_Helmet",
+      "property": "DiffuseColor",
+      "offset": 1167076,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Head_Helmet",
+      "property": "Diffuse",
+      "offset": 1167373,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Head_Helmet",
+      "property": "Diffuse",
+      "offset": 1167382,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Head_Helmet",
+      "property": "Diffuse",
+      "offset": 1167391,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_Head_Helmet",
+      "property": "TransparencyFactor",
+      "offset": 1167144,
+      "before": 1.0,
+      "after": 0.0
+    },
+    {
+      "material": "MI_Muriel_TearLine",
+      "property": "DiffuseColor",
+      "offset": 1167800,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_TearLine",
+      "property": "DiffuseColor",
+      "offset": 1167809,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_TearLine",
+      "property": "DiffuseColor",
+      "offset": 1167818,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_TearLine",
+      "property": "Diffuse",
+      "offset": 1168198,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_TearLine",
+      "property": "Diffuse",
+      "offset": 1168207,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_TearLine",
+      "property": "Diffuse",
+      "offset": 1168216,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_EyeLashes",
+      "property": "DiffuseColor",
+      "offset": 1168840,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_EyeLashes",
+      "property": "DiffuseColor",
+      "offset": 1168849,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_EyeLashes",
+      "property": "DiffuseColor",
+      "offset": 1168858,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_EyeLashes",
+      "property": "Diffuse",
+      "offset": 1169238,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_EyeLashes",
+      "property": "Diffuse",
+      "offset": 1169247,
+      "before": 0.0,
+      "after": 0.5
+    },
+    {
+      "material": "MI_Muriel_EyeLashes",
+      "property": "Diffuse",
+      "offset": 1169256,
+      "before": 0.0,
+      "after": 0.5
+    }
+  ]
+}
