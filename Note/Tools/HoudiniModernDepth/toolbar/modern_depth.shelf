@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shelfDocument>
+  <toolshelf name="codex_modern_depth" label="Modern Depth">
+    <memberTool name="codex_modern_depth_status"/>
+  </toolshelf>
+  <tool name="codex_modern_depth_status" label="Depth Status" icon="ROP_flipbook">
+    <helpText><![CDATA[Show whether Labs Depth is automatically routed to Flipbook ROP.]]></helpText>
+    <script scriptType="python"><![CDATA[import codex_modern_depth
+codex_modern_depth.show_status()
+]]></script>
+  </tool>
+</shelfDocument>
